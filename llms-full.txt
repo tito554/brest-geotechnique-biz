@@ -1,0 +1,52 @@
+# Geotechnique — Brest
+
+> Geotechnical engineering services in Brest, France.
+
+## Services
+- [Amelioration Sols](https://brest.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://brest.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://brest.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://brest.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://brest.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://brest.geotechnique.biz/colonnes-ballastees/)
+- [Confidentialite](https://brest.geotechnique.biz/confidentialite/)
+- [Densite Cone Sable](https://brest.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://brest.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://brest.geotechnique.biz/essais-proctor/)
+- [Excavations](https://brest.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://brest.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://brest.geotechnique.biz/fondations/)
+- [Geotechnique Routiere](https://brest.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://brest.geotechnique.biz/granulometrie/)
+- [Injections](https://brest.geotechnique.biz/injections/)
+- [Investigation](https://brest.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://brest.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://brest.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://brest.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://brest.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://brest.geotechnique.biz/liquefaction/)
+- [Masw](https://brest.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://brest.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://brest.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://brest.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://brest.geotechnique.biz/pieux/)
+- [Puits Inspection](https://brest.geotechnique.biz/puits-inspection/)
+- [Radiers](https://brest.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://brest.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://brest.geotechnique.biz/resistivite/)
+- [Semelles](https://brest.geotechnique.biz/semelles/)
+- [Sismique](https://brest.geotechnique.biz/sismique/)
+- [Sondages Spt](https://brest.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://brest.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://brest.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://brest.geotechnique.biz/talus/)
+- [Triaxial](https://brest.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://brest.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://brest.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://brest.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Brest, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
